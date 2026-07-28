@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CovalentScope-QM: a source-held-out quantum-AI benchmark
 
 ## Scientific question
@@ -176,3 +177,6 @@ evidence and prospective experimental testing.
 Potential journal targets after successful validation: *Journal of
 Cheminformatics*, *Digital Discovery*, *Journal of Chemical Information and
 Modeling*, or *Journal of Computer-Aided Molecular Design*.
+=======
+# covalent_quantum_benchmark
+>>>>>>> 2a738f765999888596df5a855541c2d460fef9a2
