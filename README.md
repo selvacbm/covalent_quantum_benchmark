@@ -167,16 +167,3 @@ with a 95% bootstrap interval excluding zero. If not, report the result as a
 negative result: the chosen xTB state descriptors did not provide transferable
 information beyond a strong molecular baseline.
 
-## What is publishable
-
-The credible paper is a rigorous benchmark of when quantum descriptors help,
-or fail to help, across curated electrophile-enriched inhibitor data. Do not
-claim that the workflow discovers covalent inhibitors without primary-source
-evidence and prospective experimental testing.
-
-Potential journal targets after successful validation: *Journal of
-Cheminformatics*, *Digital Discovery*, *Journal of Chemical Information and
-Modeling*, or *Journal of Computer-Aided Molecular Design*.
-=======
-# covalent_quantum_benchmark
->>>>>>> 2a738f765999888596df5a855541c2d460fef9a2
